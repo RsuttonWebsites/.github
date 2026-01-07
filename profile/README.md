@@ -23,7 +23,7 @@ A centralized guide for film and television metadata.
 ### GameBase
 The final project for my Web Development class (P4). This is a full-stack application designed for game collection management.
 
-[![GameBase Screenshot](path-to-your-image/gamebase.png)](https://your-link-here.com)
+[![GameBase Screenshot](../GameBase.png)](https://your-link-here.com)
 
 * **Link**: [View Project](https://your-link-here.com)
 * **User Features**: Add games, update progress status (**Started/Completed**), and delete entries.
