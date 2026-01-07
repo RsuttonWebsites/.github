@@ -52,6 +52,7 @@ This section is not to show off my specific skills coding, but with collaboratio
 
 ![Ai MediaVerse](../ai_mediaverse.png)
 ![Ai MediaVerse](../ai_mediaverse2.png)
+![Ai MediaVerse](../ai_mediaverse3.png)
 ![Ai Home Site](../ai_homesite.png)
 ![Ai Home Site Details](../ai_homesite2.png)
 
