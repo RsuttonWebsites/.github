@@ -11,7 +11,7 @@ This portfolio showcases my ability to build functional web applications.
 ### MediaVerse
 A centralized guide for film and television metadata.
 
-[![MediaVerse Screenshot](path-to-your-image/mediaverse.png)](https://your-link-here.com)
+[![MediaVerse Screenshot](../MediaVerseV2.png)](https://your-link-here.com)
 
 * **Link**: [View Project](https://your-link-here.com)
 * **Purpose**: Locates where specific movies or shows are streaming.
