@@ -41,9 +41,9 @@ The final project for my Web Development class (P4). This is a full-stack applic
 An all in one utility application designed to simplify daily tasks and calculations.
 * Personal Project
 
-[![Lemons Screenshot](path-to-your-image/lemons.png)](https://your-link-here.com)
+[![Lemons Screenshot](../lemon.png)](https://rsuttonwebsites.github.io/Lemons/#/)
 
-* **Link**: [View Project](https://your-link-here.com)
+* **Link**: [View Project](https://rsuttonwebsites.github.io/Lemons/#/)
 * **Tools**: Features dedicated modules for cooking, measuring, and time-keeping.
 * **Functionality**: Provides unit conversions and household calculators.
 * **Value**: Consolidates daily tools into a single, lightweight interface.
