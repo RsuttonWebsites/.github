@@ -51,6 +51,7 @@ An all-in-one utility application designed to simplify daily tasks and calculati
 This section is not to show off my specific skills coding, but with collaboration with AI, which may or may not be needed for certain jobs in the future. This work I do not call fully mine, but is heavily influenced by my vision (and I did write a lot of the code myself, just not all of it).
 
 ![Ai MediaVerse](../ai_mediaverse.png)
+![Ai MediaVerse](../ai_mediaverse2.png)
 ![Ai Home Site](../ai_homesite.png)
 ![Ai Home Site Details](../ai_homesite2.png)
 
