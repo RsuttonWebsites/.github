@@ -1,11 +1,14 @@
 # Portfolio: Web Development and Creative Coding
 
 This portfolio showcases my ability to build functional web applications.
+
 ---
+
 ### Featured Projects
 * **MediaVerse**
 * **GameBase**
 * **Lemons**
+
 ---
 
 ### MediaVerse
@@ -17,7 +20,7 @@ A centralized guide for film and television metadata.
 * **Purpose**: Locates where specific movies or shows are streaming.
 * **Data**: Displays titles, summaries, and high-quality posters.
 * **Value**: Eliminates the need to check multiple streaming platforms manually.
-* **Current State: I have since made new versions, but with using ai and I did not want to include work I have used ai with, But if you are interested I will have screenshots at the bottom with work I collaborated with ai. This versions chatbot and login is not functional at this time.
+* **Current State**: I have since made new versions, but with using AI, and I did not want to include work I have used AI with. But, if you are interested, I will have screenshots at the bottom with work I collaborated with AI. This version's chatbot and login is not functional at this time.
 
 ---
 
@@ -42,7 +45,12 @@ An all-in-one utility application designed to simplify daily tasks and calculati
 * **Functionality**: Provides rapid unit conversions and household calculators.
 * **Value**: Consolidates essential daily tools into a single, lightweight interface.
 
-### AI Collab Work
-This section is not to show off my specific skills coding, but with collaboration with ai, which may, or may not be needed for certain jobs in the future. This work I do not call fully mine, but is heavily influenced by my vision, (and I did write a lot of the code myself, just not all of it)
+---
 
-[![Ai MediaVerse](../ai_mediaverse.png)]
+### AI Collab Work
+This section is not to show off my specific skills coding, but with collaboration with AI, which may or may not be needed for certain jobs in the future. This work I do not call fully mine, but is heavily influenced by my vision (and I did write a lot of the code myself, just not all of it).
+
+![Ai MediaVerse](../ai_mediaverse.png)
+![Ai Home Site](../ai_homesite)
+
+
