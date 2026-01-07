@@ -1,37 +1,42 @@
-Welcome! This is where I showcase my passion for building creative and functional web applications. Below are a few hand-picked projects that I'm particularly proud of.
+# Portfolio: Web Development and Creative Coding
 
-*Featured Projects*
+This portfolio showcases my ability to build functional web applications.
+---
+### Featured Projects
+* **MediaVerse**
+* **GameBase**
+* **Lemons**
+---
 
+### MediaVerse
+A centralized guide for film and television metadata.
 
-*Media Verse:* Your Ultimate Film & TV Guide Your one-stop-shop for movie and TV show information.
+[![MediaVerse Screenshot](path-to-your-image/mediaverse.png)](https://your-link-here.com)
 
-Ever wonder where a specific movie is streaming? With Media Verse, you can search for nearly any film or television show ever made and get all the details you need in an instant.
+* **Link**: [View Project](https://your-link-here.com)
+* **Purpose**: Locates where specific movies or shows are streaming.
+* **Data**: Displays titles, summaries, and high-quality posters.
+* **Value**: Eliminates the need to check multiple streaming platforms manually.
 
-What You Can Find:
+---
 
-Movie & TV show titles and summaries.
+### GameBase
+The final project for my Web Development class (P4). This is a full-stack application designed for game collection management.
 
-High-quality posters.
+[![GameBase Screenshot](path-to-your-image/gamebase.png)](https://your-link-here.com)
 
-A list of streaming services where it's available.
+* **Link**: [View Project](https://your-link-here.com)
+* **User Features**: Add games, update progress status (**Started/Completed**), and delete entries.
+* **Stack**: HTML, CSS, JavaScript, PHP, and MySQL.
 
+---
 
-*GameBase:* Personal Game Collection Tracker The final project for my Web Development class (P4), showcasing a full-stack application.
+### Lemons
+An all-in-one utility application designed to simplify daily tasks and calculations.
 
-GameBase is a dynamic website where gamers can track their personal video game library. It was built from the ground up to demonstrate a wide range of web technologies.
+[![Lemons Screenshot](path-to-your-image/lemons.png)](https://your-link-here.com)
 
-As a user, you can:
-
-Add games to your personal collection.
-
-Update a game's status to "Started" or "Completed."
-
-Delete games from your profile.
-
-🛠️ Tech Stack:
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: NoSQL
+* **Link**: [View Project](https://your-link-here.com)
+* **Tools**: Features dedicated modules for cooking, measuring, and time-keeping.
+* **Functionality**: Provides rapid unit conversions and household calculators.
+* **Value**: Consolidates essential daily tools into a single, lightweight interface.
