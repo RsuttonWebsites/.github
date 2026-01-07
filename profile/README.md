@@ -1,4 +1,4 @@
-# Portfolio: Web Development and Creative Coding
+# Portfolio: Web Development
 
 This portfolio showcases my ability to build functional web applications.
 
@@ -12,7 +12,8 @@ This portfolio showcases my ability to build functional web applications.
 ---
 
 ### MediaVerse
-A centralized guide for film and television metadata.
+A way to find film and television shows in an easy way.
+* Personal Project
 
 [![MediaVerse Screenshot](../MediaVerseV2.png)](https://thor.quincy.edu/~r.sutton16/mediaverse/)
 
@@ -25,7 +26,8 @@ A centralized guide for film and television metadata.
 ---
 
 ### GameBase
-The final project for my Web Development class (P4). This is a full-stack application designed for game collection management.
+The final project for my Web Development class (P4). This is a full-stack application designed to assist with keeping track of what games you have played and finished.
+* Class Project
 
 [![GameBase Screenshot](../GameBase.png)](https://github.com/RsuttonWebsites/GameBase)
 
@@ -36,19 +38,22 @@ The final project for my Web Development class (P4). This is a full-stack applic
 ---
 
 ### Lemons
-An all-in-one utility application designed to simplify daily tasks and calculations.
+An all in one utility application designed to simplify daily tasks and calculations.
+* Personal Project
 
 [![Lemons Screenshot](path-to-your-image/lemons.png)](https://your-link-here.com)
 
 * **Link**: [View Project](https://your-link-here.com)
 * **Tools**: Features dedicated modules for cooking, measuring, and time-keeping.
-* **Functionality**: Provides rapid unit conversions and household calculators.
-* **Value**: Consolidates essential daily tools into a single, lightweight interface.
+* **Functionality**: Provides unit conversions and household calculators.
+* **Value**: Consolidates daily tools into a single, lightweight interface.
 
 ---
 
 ### AI Collab Work
 This section is not to show off my specific skills coding, but with collaboration with AI, which may or may not be needed for certain jobs in the future. This work I do not call fully mine, but is heavily influenced by my vision (and I did write a lot of the code myself, just not all of it).
+
+* All Personal Projects
 
 ![Ai MediaVerse](../ai_mediaverse.png)
 ![Ai MediaVerse](../ai_mediaverse2.png)
