@@ -50,7 +50,7 @@ An all in one utility application designed to simplify daily tasks and calculati
 
 ---
 ### Thank you
-Thank you for your time. I hope you now have some ginsight into what I love doing. 
+Thank you for your time. I hope you now have some insight into what I love doing. 
 
 ---
 
