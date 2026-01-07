@@ -1,9 +1,9 @@
-Welcome to My Web Development Portfolio! 💻 Welcome! This is where I showcase my passion for building creative and functional web applications. Below are a few hand-picked projects that I'm particularly proud of.
+Welcome! This is where I showcase my passion for building creative and functional web applications. Below are a few hand-picked projects that I'm particularly proud of.
 
-Featured Projects
+*Featured Projects*
 
 
-Media Verse: Your Ultimate Film & TV Guide Your one-stop-shop for movie and TV show information.
+*Media Verse:* Your Ultimate Film & TV Guide Your one-stop-shop for movie and TV show information.
 
 Ever wonder where a specific movie is streaming? With Media Verse, you can search for nearly any film or television show ever made and get all the details you need in an instant.
 
@@ -16,7 +16,7 @@ High-quality posters.
 A list of streaming services where it's available.
 
 
-GameBase: Personal Game Collection Tracker The final project for my Web Development class (P4), showcasing a full-stack application.
+*GameBase:* Personal Game Collection Tracker The final project for my Web Development class (P4), showcasing a full-stack application.
 
 GameBase is a dynamic website where gamers can track their personal video game library. It was built from the ground up to demonstrate a wide range of web technologies.
 
