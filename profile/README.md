@@ -11,9 +11,9 @@ This portfolio showcases my ability to build functional web applications.
 ### MediaVerse
 A centralized guide for film and television metadata.
 
-[![MediaVerse Screenshot](../MediaVerseV2.png)](https://your-link-here.com)
+[![MediaVerse Screenshot](../MediaVerseV2.png)](https://thor.quincy.edu/~r.sutton16/mediaverse/)
 
-* **Link**: [View Project](https://your-link-here.com)
+* **Link**: [View Project](https://thor.quincy.edu/~r.sutton16/mediaverse/)
 * **Purpose**: Locates where specific movies or shows are streaming.
 * **Data**: Displays titles, summaries, and high-quality posters.
 * **Value**: Eliminates the need to check multiple streaming platforms manually.
@@ -23,9 +23,9 @@ A centralized guide for film and television metadata.
 ### GameBase
 The final project for my Web Development class (P4). This is a full-stack application designed for game collection management.
 
-[![GameBase Screenshot](../GameBase.png)](https://your-link-here.com)
+[![GameBase Screenshot](../GameBase.png)](https://github.com/RsuttonWebsites/GameBase)
 
-* **Link**: [View Project](https://your-link-here.com)
+* **Link**: [View Project](https://github.com/RsuttonWebsites/GameBase)
 * **User Features**: Add games, update progress status (**Started/Completed**), and delete entries.
 * **Stack**: HTML, CSS, JavaScript, PHP, and MySQL.
 
