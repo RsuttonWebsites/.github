@@ -47,7 +47,7 @@ An all in one utility application designed to simplify daily tasks and calculati
 * **Tools**: Features dedicated modules for cooking, measuring, and time-keeping.
 * **Functionality**: Provides unit conversions and household calculators.
 * **Value**: Consolidates daily tools into a single, lightweight interface.
-* **WIP**: I have many projects, but the reason I picked to show this one is because it uses github actions. I just started this project, so it is hugely a WIP, but anytime I commit to main, it uses github actions to put the changes out to production. I have setup branches for testing, and developing so I am not chaning production every other minute. 
+* **WIP**: I have many projects, but the reason I picked to show this one is because it uses github actions. I just started this project, so it is hugely a WIP, but anytime I commit to main, it uses github actions to put the changes out to production. I have setup branches for testing, and developing so I am not changing production every other minute. 
 
 ---
 ### Thank you
